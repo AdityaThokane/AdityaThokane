@@ -1,3 +1,51 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditya%20Thokane%20//%20Threat%20Hunter&fontSize=42&fontColor=00FF9C&fontAlignY=38&desc=IT/OT%20Detection%20Engineering%20%7C%20Blue%20Team%20by%20day%2C%20Red%20Team%20mindset%20always&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=000000&center=true&vCenter=true&width=700&lines=root%40purdue-model%3A~%23+whoami;%3E+Aditya+Thokane;%3E+Threat+Hunter+%7C+Detection+Engineer+(OT%2FICS);%3E+CrowdStrike+Falcon+NG-SIEM+%2F+LogScale+(CQL);%3E+Mapping+attacks+to+MITRE+ATT%26CK+for+ICS;%3E+Securing+L0+-+L3.5+so+the+lights+stay+on." alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+</div>
+
+<div align="center">
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+
+### ⚙️ Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github&theme=dark" />
+
+<br/><br/>
+
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike%20Falcon-E01F27?style=for-the-badge&logo=crowdstrike&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK%20for%20ICS-CC2229?style=for-the-badge&logo=mitre&logoColor=white)
+![OT Security](https://img.shields.io/badge/OT%2FICS%20Security-1a1a2e?style=for-the-badge&logo=siemens&logoColor=00FF9C)
+![Claroty](https://img.shields.io/badge/Claroty%20xDome-0c1e3e?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=00FF9C)
+![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-302b63?style=for-the-badge&logo=protonmail&logoColor=00FF9C)
+
+</div>
+
+---
+
+
 # 💫 About Me:
 Hi there, I'm Aditya Thokane 👋<br><br>🚀 IT/OT Cybersecurity Engineer | Threat Hunter | Security Researcher<br><br>I am an  Cybersecurity Engineer with 8+ years of experience specializing in Operational Technology (OT), SIEM, EDR, Email Security, Threat Hunting, Incident Response, and Security Monitoring. My work focuses on protecting critical infrastructure by identifying advanced threats, analyzing suspicious activities, and strengthening cyber resilience across industrial environments.<br><br>🔍 Areas of Expertise<br><br>OT/ICS Security<br>Threat Hunting & Threat Intelligence<br>Malware Analysis<br>Incident Detection & Response<br>Network Traffic Analysis (Wireshark, Tshark)<br>Security Monitoring & SIEM Operations<br>Industrial Protocol Analysis<br>Security Automation & Python Development<br><br>💡 I am passionate about building practical cybersecurity solutions, developing threat hunting methodologies, and creating tools that improve security visibility and operational efficiency.<br><br>🛠️ Current Focus<br><br>Advanced OT Threat Hunting<br>Security Automation with Python<br>ICS/SCADA Security Research<br>Detection Engineering<br>Malware & Network Forensics<br><br>📚 I continuously explore emerging cyber threats, share knowledge with the security community, and contribute to projects that enhance cybersecurity capabilities in industrial environments.<br><br>Let's Connect<br>LinkedIn: linkedin.com/in/adityathokane<br>GitHub: github.com/adityathokane<br><br>"Security is not just about defending systems—it's about understanding adversaries before they strike."
 
