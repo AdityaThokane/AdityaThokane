@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there, I'm Aditya Thokane 👋<br><br>🚀 IT/OT Cybersecurity Engineer | Threat Hunter | Security Researcher<br><br>I am an  Cybersecurity Engineer with 8+ years of experience specializing in Operational Technology (OT), SIEM, EDR, Email Security, Threat Hunting, Incident Response, and Security Monitoring. My work focuses on protecting critical infrastructure by identifying advanced threats, analyzing suspicious activities, and strengthening cyber resilience across industrial environments.<br><br>🔍 Areas of Expertise<br><br>OT/ICS Security<br>Threat Hunting & Threat Intelligence<br>Malware Analysis<br>Incident Detection & Response<br>Network Traffic Analysis (Wireshark, Tshark)<br>Security Monitoring & SIEM Operations<br>Industrial Protocol Analysis<br>Security Automation & Python Development<br><br>💡 I am passionate about building practical cybersecurity solutions, developing threat hunting methodologies, and creating tools that improve security visibility and operational efficiency.<br><br>🛠️ Current Focus<br><br>Advanced OT Threat Hunting<br>Security Automation with Python<br>ICS/SCADA Security Research<br>Detection Engineering<br>Malware & Network Forensics<br><br>📚 I continuously explore emerging cyber threats, share knowledge with the security community, and contribute to projects that enhance cybersecurity capabilities in industrial environments.<br><br>Let's Connect<br>LinkedIn: linkedin.com/in/adityathokane<br>GitHub: github.com/adityathokane<br><br>"Security is not just about defending systems—it's about understanding adversaries before they strike."
 
-<!--
-**AdityaThokane/AdityaThokane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adityathokane/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+
+
+---
+[![](https://komarev.com/ghpvc/?username=AdityaThokane&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
