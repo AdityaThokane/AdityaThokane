@@ -83,6 +83,9 @@ I'm a **certified OT SOC & Threat Hunting Engineer** with **7+ years** of experi
 
 ### ⚙️ Tech Arsenal
 
+<tr>
+<td width="100%" valign="top">
+
 **SIEM**
 ![QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=flat-square&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
@@ -115,6 +118,8 @@ I'm a **certified OT SOC & Threat Hunting Engineer** with **7+ years** of experi
 **Languages & Tools**
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,docker&theme=dark" />
 
+</td>
+</tr>
 ---
 
 ### 🧭 Purdue Model Coverage
