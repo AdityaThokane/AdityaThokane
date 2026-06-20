@@ -180,6 +180,42 @@ Monitored and triaged SIEM alerts via runbooks, authored the Security Operations
 | SSC | S.B. High School, Telhara | — |
 
 ---
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 [AI Threat Hunt Assistant](https://github.com/adityathokane/REPLACE_WITH_REPO_NAME)**
+6 hunt modes, skill-integrated review & intel lookup
+
+</td>
+<td width="50%" valign="top">
+
+**🌿 [OT/ICS Hunt Query Library](https://github.com/adityathokane/REPLACE_WITH_REPO_NAME)**
+Sanitized CQL queries mapped to ATT&CK for ICS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**👁️ [Claroty Alert Visualizer](https://github.com/adityathokane/REPLACE_WITH_REPO_NAME)**
+Animated alert & investigation simulation
+
+</td>
+<td width="50%" valign="top">
+
+**📊 [xDome Metrics Dashboard](https://github.com/adityathokane/REPLACE_WITH_REPO_NAME)**
+CLI script converted to Dash web app
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 📫 Let's Connect
 
